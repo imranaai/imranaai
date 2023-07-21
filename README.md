@@ -10,6 +10,10 @@
 - 📫 How to reach me: imran.aaar@gmail.com.
 - ⚡ Fun fact: I am a good singer, a very polite and humble person.
 
+
+
+
+<!--
 ## 🔧 Technologies & Tools
 
 [Optional: List the programming languages, frameworks, tools, and software you are proficient in.]
@@ -70,9 +74,6 @@
 <!-- PROJECTS-LIST:END -->
 
 Feel free to modify this template to suit your preferences and update the sections as needed. Good luck with improving your GitHub profile! 🎉
-
-
-<!--
 **imranaai/imranaai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
