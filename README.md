@@ -1,17 +1,14 @@
-# Hi there, I'm [Your Name]! 👋
-
-[Optional: Add a brief introduction about yourself, your passions, and your interests.]
+# Hi there, I'm Mohd Imran! 👋
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [your current projects or job].
-- 🌱 I’m currently learning [your learning goals or current topics of interest].
-- 👯 I’m looking to collaborate on [open-source projects or anything you find interesting].
-- 🤔 I’m looking for help with [specific project or skill you want to improve].
-- 💬 Ask me about [your areas of expertise or interests].
-- 📫 How to reach me: [your email address or other contact details].
-- 😄 Pronouns: [your pronouns, e.g., he/him, she/her, they/them].
-- ⚡ Fun fact: [share a fun or interesting fact about yourself].
+- 🔭 I’m currently working on a Cross platform Application using flutter.
+- 🌱 I’m currently learning flutter, glsl, and openGL.
+- 👯 I’m looking to collaborate on wide range of projets which can improve my analytical skills and problem solving skills.
+- 🤔 I’m looking for help with flutter state management.
+- 💬 Ask me about Open Source, Electrical Engineering.
+- 📫 How to reach me: imran.aaar@gmail.com.
+- ⚡ Fun fact: I am a good singer, a very polite and humble person.
 
 ## 🔧 Technologies & Tools
 
