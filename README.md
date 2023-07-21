@@ -60,20 +60,20 @@
 [Optional: If you write technical blog posts, you can display your latest blog posts here.]
 
 <!-- BLOG-POST-LIST:START -->
-- [How to do XYZ with ABC](https://www.yourwebsite.com/how-to-do-xyz-with-abc)
+<!-- - [How to do XYZ with ABC](https://www.yourwebsite.com/how-to-do-xyz-with-abc)
 - [The Art of Programming](https://www.yourwebsite.com/the-art-of-programming)
 <!-- BLOG-POST-LIST:END -->
 
-## 🗒️ Recent Projects
+<!--## 🗒️ Recent Projects
 
 [Optional: You can list some of your recent projects.]
 
 <!-- PROJECTS-LIST:START -->
-- [Project 1](https://github.com/yourusername/project1)
+<!-- - [Project 1](https://github.com/yourusername/project1)
 - [Project 2](https://github.com/yourusername/project2)
 <!-- PROJECTS-LIST:END -->
 
-Feel free to modify this template to suit your preferences and update the sections as needed. Good luck with improving your GitHub profile! 🎉
+<!--Feel free to modify this template to suit your preferences and update the sections as needed. Good luck with improving your GitHub profile! 🎉
 **imranaai/imranaai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
